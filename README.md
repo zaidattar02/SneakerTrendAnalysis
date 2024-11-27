@@ -8,7 +8,6 @@ Welcome to the Sneaker Trend Analysis Dashboard! This interactive web applicatio
 - **Compare Trends**: Compare search trends across multiple sneaker brands to identify emerging patterns and brand performance.
 - **Seasonal Trend Analysis**: Analyze yearly seasonality effects for a selected sneaker brand, visualizing how interest fluctuates throughout the year.
 - **Future Trend Forecasting**: Leverage Prophet's time series forecasting to predict future search interest for a selected sneaker brand.
-- **Interactive AI Assistant** (Optional): An AI chatbot feature (currently disabled) was designed to assist users by answering questions about the trends and insights displayed on the dashboard.
 
 ## 🔧 Technologies Used
 
